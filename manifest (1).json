@@ -1,0 +1,67 @@
+{
+  "background_color": "#ffffff",
+  "description": "Check out what I built in Arena's Code Arena - Content is user-generated and unverified",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "019fa638-b1dd-74f4-ac7e-0fae3ebf4b97.arena",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "019fa638-b1dd-74f4-ac7e-0fae3ebf4b97.arena",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://019fa638-b1dd-74f4-ac7e-0fae3ebf4b97.arena.site/favicon-light.svg",
+      "type": "image/svg+xml",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://019fa638-b1dd-74f4-ac7e-0fae3ebf4b97.arena.site/favicon-dark.svg",
+      "type": "image/svg+xml",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://screenshot-taker-prod.weichiang.workers.dev/message/019fa638-b1dd-74f4-ac7e-0fae3ebf4b97/og-image.png",
+      "type": "image/png",
+      "sizes": "2400x1260",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 2400,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://019fa638-b1dd-74f4-ac7e-0fae3ebf4b97.arena.site/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "categories": [
+    "entertainment",
+    "fitness"
+  ]
+}
